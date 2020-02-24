@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jong Pairez GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bakunawa-ops/Bakunawa-Sec/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IT Specialist with a background in Research and Design. Integrates artistic practice with end-user computing by applying creative approaches in working around technology. Loves listening to Death Metal and enjoys hacking inexpensive single-board-computers to simulate Enterprise IT Infrastructures for learning vulnerabilities.
 
 ### Markdown
 
