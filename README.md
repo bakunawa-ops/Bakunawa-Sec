@@ -1,10 +1,10 @@
 ## Welcome to Jong Pairez GitHub Pages
 
-IT Specialist with a background in Research and Design. Integrates artistic practice with end-user computing by applying creative approaches in working around technology. Loves listening to Death Metal and enjoys hacking inexpensive single-board-computers to simulate Enterprise IT Infrastructures for learning vulnerabilities.
+Jong Pairez is an IT Specialist with a background in Research and Design. He integrates artistic practice with end-user computing by applying creative approaches in working around technology. Loves listening to Death Metal and enjoys hacking inexpensive single-board-computers to simulate recent vulnerabilities in Enterprise IT Infrastructures. This GitHub page is his simple laboratory for Bakunawa-Sec. 
 
-### Markdown
+### Bakunawa-Sec
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Laboratory for simple things related to anything IT.
 
 ```markdown
 Syntax highlighted code block
