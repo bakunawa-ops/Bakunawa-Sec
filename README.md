@@ -1,10 +1,12 @@
-## Welcome to Jong Pairez GitHub Pages
+## Welcome to Jong Pairez GitHub Page
 
 Jong Pairez is an IT Specialist with a background in Research and Design. He integrates artistic practice with end-user computing by applying creative approaches in working around technology. Loves listening to Death Metal and enjoys hacking inexpensive single-board-computers to simulate recent vulnerabilities in Enterprise IT Infrastructures. This GitHub page is his simple laboratory for Bakunawa-Sec. 
 
 ### Bakunawa-Sec
 
-Laboratory for simple things related to anything IT.
+Bakunawa-Sec is a laboratory for simple things. Low level programming with Shell. Automate boring stuff with Python. Build tools for end-user computing. Web Development, SysAd, and DevOps practice.
+
+Open for collab!
 
 ```markdown
 Syntax highlighted code block
