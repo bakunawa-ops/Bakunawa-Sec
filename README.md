@@ -10,7 +10,7 @@ Bakunawa-Sec is a laboratory for simple IT people and simple things. It is an op
 - Network Engineering
 - Experimental Automation Projects
 - Software/Hardware Reverse Engineering
-- Windows Hacking
+- Commercial Desktop Hacking
 - IT Service Delivery
 
 Open for collab!
