@@ -17,7 +17,7 @@ Open for collab!
 
 ```markdown
 
- Header 1
+# Header 1
 ## Header 2
 ### Header 3
 
@@ -31,6 +31,7 @@ Open for collab!
 
 [Link](url) and ![Image](src)
 ```
+`this is a sample {{code == yes}}`
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
