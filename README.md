@@ -16,16 +16,15 @@ Bakunawa-Sec is a laboratory for simple IT people and simple things. It is an op
 Open for collab!
 
 ```markdown
-Syntax highlighted code block
 
- _           _                                    ____            
-| |__   __ _| | ___   _ _ __   __ ___      ____ _/ ___|  ___  ___ 
-| '_ \ / _` | |/ / | | | '_ \ / _` \ \ /\ / / _` \___ \ / _ \/ __|
-| |_) | (_| |   <| |_| | | | | (_| |\ V  V / (_| |___) |  __/ (__ 
-|_.__/ \__,_|_|\_\\__,_|_| |_|\__,_| \_/\_/ \__,_|____/ \___|\___|
-                                                                  
+# Hello World!                      
+                         ___
+ ___ _   _ _ __      __ _| |
+/ __| | | | '_ \    / _` | |
+\__ \ |_| | |_) |  | (_| |_|
+|___/\__,_| .__/____\__, (_)
+          |_| |_____|___/                            
 
-# Header 1
 ## Header 2
 ### Header 3
 
