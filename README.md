@@ -7,10 +7,11 @@ Jong Pairez is an IT Specialist with a background in Research and Design. He int
 Bakunawa-Sec is a laboratory for simple IT people and simple things. It is an open-learning space for amateur IT heldesk and a skill sharing platform for novice open-source technology hobbyists. Bakunawa-Sec builds, tests, and deploy tools for the following:
 
 - Home Laboratory Servers
-- Amateur Network Engineering
+- Network Engineering
 - Experimental Automation Projects
 - Software/Hardware Reverse Engineering
 - Windows Hacking
+- IT Service Delivery
 
 Open for collab!
 
