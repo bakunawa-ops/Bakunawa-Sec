@@ -31,7 +31,7 @@ Open for collab!
 
 [Link](url) and ![Image](src)
 ```
-`this is a sample {{code == yes}}`
+`this is a sample`
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
