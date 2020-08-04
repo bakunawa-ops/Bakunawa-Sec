@@ -17,10 +17,11 @@ Open for collab!
 
 ```markdown
 
-##       |          |                                                  
-##        _ \  _` | | / |  |   \   _` |\ \  \ / _` |____|(_-<  -_)  _| 
-##      _.__/\__,_|_\_\\_,_|_| _|\__,_| \_/\_/\__,_|     ___/\___|\__| 
-##                                                                       
+##   _   _   _   _   _   _   _   _   _   _   _   _  
+##  / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+## ( b | a | k | u | n | a | w | a | - | s | e | c )
+##  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
+##
 
 - Bulleted
 - List
@@ -33,6 +34,8 @@ Open for collab!
 [Link](url) and ![Image](src)
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+`This is a code`
 
 ### Jekyll Themes
 
