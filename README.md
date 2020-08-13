@@ -1,16 +1,16 @@
 ## Welcome to Jong Pairez GitHub Page
 
-Jong Pairez is an IT Specialist with a background in Research and Design. He integrates artistic practice with end-user computing by applying creative approaches in working around technology. He loves listening to Death Metal and enjoys hacking inexpensive single-board-computers to simulate recent vulnerabilities in Enterprise IT Infrastructures. This GitHub page is his simple laboratory for Bakunawa-Sec. 
+Jong Pairez is a Tech Support with a background in Research and Design. He integrates artistic practice with end-user computing by applying creative approaches in working around technology. He loves listening to Death Metal and enjoys hacking inexpensive single-board-computers to simulate recent vulnerabilities in Enterprise IT Infrastructures. This GitHub page is his simple laboratory for Bakunawa-Sec. 
 
 ### Bakunawa-Sec
 
-Bakunawa-Sec is a simple IT solutions laboratory for end user computing. It is also an open-learning space for amateur IT heldesk who are interested in novice open-source technology. Bakunawa-Sec builds, tests, and deploy tools for the following:
+Bakunawa-Sec is a simple IT solutions laboratory for end user computing. It is also an open-learning space for amateur IT Help Desk who are interested in free and open-source technology. Bakunawa-Sec builds, tests, and deploy tools for fun.
 
 - Home Virtual Laboratory Servers
 - Network Engineering
 - Experimental Automation Projects
 - Software/Hardware Reverse Engineering
-- Troubleshooting Commercial Desktops
+- Troubleshooting and Bug Hunting
 - IT Service Delivery
 
 Open for collab!
