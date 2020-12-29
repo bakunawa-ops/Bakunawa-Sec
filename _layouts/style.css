@@ -4,4 +4,12 @@
  *  Date: December 2020
  */
 
+/* main panel */
+section {
+  padding: 20px 10px;
+}
 
+/* markdown box */
+.highlight {
+  background-color: #0b0a0a;
+}
