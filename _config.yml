@@ -2,9 +2,6 @@ theme: jekyll-theme-minimal
 logo: https://graffitithailand.files.wordpress.com/2014/10/tag-20.jpg
 
 sass:
-<<<<<<< HEAD
-        sass_dir: _sass
-=======
   style: _sass
   style: :compressed
->>>>>>> test
+
