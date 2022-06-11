@@ -31,9 +31,7 @@ Open for collab!
 
 [Link](url) and ![Image](src)
 ```
-Powered by **Jekyll Themes**
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-
+Powered by **Jekyll Themes**, visit the page [Bakunawa-Sec](https://bakunawa-ops.github.io/Bakunawa-Sec/).
 
