@@ -1,10 +1,10 @@
-## Welcome to Jong Pairez GitHub Page
+## Welcome to Habagat1312 GitHub Page
 
-**Jong Pairez** is a Tech Support with a background in Fine Arts and Design. He integrates artistic practice in end-user computing by applying creative approaches in working around with technology. He loves listening to Death Metal and enjoys hacking inexpensive single-board-computers to simulate recent enterprise IT Infrastructures. This GitHub page is his simple laboratory for Bakunawa-Sec. 
+**Habagat1312** is Jong - a multi-lingual Tech Support with a background in Fine Arts and Design. He integrates artistic practice to end-user computing by applying creative approaches in working around with technology. He loves listening to Death Metal and enjoys his home built lab to simulate the maintenance of recent enterprise IT Infrastructures. This GitHub page is his repository for Habagat1312 labs. 
 
-### Bakunawa-Sec
+### Habagat1312
 
-Bakunawa-Sec is a laboratory for common IT users with interest in Internet freedom, privacy, and non-organization dependent technology. It is an open-learning space for amateur IT enthusiasts and a skill sharing platform for novice open-source technology hobbyists. Bakunawa-Sec builds, tests, and deploy tools for fun:
+Habagat1312 is a laboratory for common IT users with interest in Internet freedom, privacy, and non-organization dependent technology. It is an open-learning space for amateur IT enthusiasts and a skill sharing platform for novice open-source technology hobbyists. Bakunawa-Sec builds, tests, and deploy tools for fun:
 
 - Home Laboratory Servers
 - Network Engineering
@@ -14,24 +14,3 @@ Bakunawa-Sec is a laboratory for common IT users with interest in Internet freed
 - IT Training
 
 Open for collab!
-
-```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Powered by **Jekyll Themes**, visit the page [Bakunawa-Sec](https://bakunawa-ops.github.io/Bakunawa-Sec/).
-
