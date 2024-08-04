@@ -4,7 +4,7 @@
 
 ### Habagat1312 Labs
 
-Habagat1312 is a laboratory for common IT users with interest in Internet freedom, privacy, and non-organization dependent technology. It is an open-learning space for amateur IT enthusiasts and a skill sharing platform for novice open-source technology hobbyists. Bakunawa-Sec builds, tests, and deploy tools for fun:
+Habagat1312 is a laboratory for common IT users with interest in Internet freedom, privacy, and non-organization dependent technology. It is an open-learning space for amateur IT enthusiasts and a skill sharing platform for novice open-source technology hobbyists. Habagat1312 Lab builds, tests, and deploy tools for fun:
 
 - Home Laboratory Servers
 - Network Engineering
