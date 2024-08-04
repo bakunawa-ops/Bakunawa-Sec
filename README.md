@@ -1,6 +1,6 @@
 ## Welcome to Habagat1312 GitHub Page
 
-**Habagat1312** is Jong - a multi-lingual Tech Support with a background in Fine Arts and Design. He integrates artistic practice to end-user computing by applying creative approaches in working around with technology. He loves listening to Death Metal and enjoys his home built lab to simulate the maintenance of recent enterprise IT Infrastructures. This GitHub page is his repository for Habagat1312 labs. 
+**Habagat1312** is Jong - a multi-lingual Tech Support with a background in Fine Arts and Design. He integrates artistic practice to end-user computing by applying creative approaches in working around with technology. Jong loves listening to Death Metal and enjoys his home built lab to simulate the maintenance of recent enterprise IT Infrastructures. This GitHub page is his repository for Habagat1312 labs. 
 
 ### Habagat1312 Labs
 
